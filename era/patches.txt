@@ -1,0 +1,4 @@
+[pre_model_sync]
+
+[post_model_sync]
+era.patches.setup_quotation_custom_field
